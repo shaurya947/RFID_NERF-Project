@@ -9,6 +9,7 @@ or an attempt is made to walk past without presenting the tag.
 Developed at the University of Texas at Dallas.
 Team Members:
 Verneil Mesecher,
+Shaurya Arora,
 Tuan Anh Pham,
 Jagger McCord
 
